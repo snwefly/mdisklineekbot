@@ -1,4 +1,4 @@
-# MDisk Unlimited Link Convertor Bot 🔥
+# MDisk🔥
 
 Convert others MDisk link to your Link and also by direct forward post from other channel...
 Supports Bitly Links as well
